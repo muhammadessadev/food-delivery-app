@@ -6,7 +6,7 @@ This app enables users to browse restaurants, view menus, add items to cart, pla
 ---
 
 ## 🚀 Features
-- 📱 **React Native Frontend** with modern and responsive UI
+- 📱 **React Native Frontend** with modern and responsive UI.
 - 🌐 **RESTful API** built using Node.js & Express
 - 🗄 **PostgreSQL Database** for persistent data storage
 - 🔐 **JWT Authentication** for secure login & registration
